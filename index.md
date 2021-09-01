@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Aaron Tsang's First CS193 Homework
+
+- no midterms/finals 
+- very straightforward
+- good lectures! 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
